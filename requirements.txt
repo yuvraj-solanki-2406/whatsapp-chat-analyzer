@@ -4,6 +4,8 @@ matplotlib
 matplotlib.pyplot
 re
 emoji
-URLExtract
-WordCloud
-Counter
+urlextract
+wordcloud
+collections
+helper.py
+preprocessor.py
